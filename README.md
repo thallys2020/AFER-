@@ -7,7 +7,7 @@ Check the link https://www.youtube.com/watch?v=xaDJ5xnc8dc to install the librar
 # Install Face_recognition on Linux
 
 Use the following commands
-press Ctrl + Alt + T/n
+press Ctrl + Alt + T;                                                                                                                                                                
 sudo apt-get install libboost-all-dev;
 sudo apt-get install libgtk-3-dev;
 sudo apt-get install build-essential cmake;
