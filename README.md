@@ -20,7 +20,7 @@ pip install numpy scikit-learn cmake;
 pip install dlib;
 pip install face_recognition;
 
-# Install OpenCV-Python to Capture Frames
+# Install OpenCV-Python 
 Use the 'sudo apt install python3-opencv' on Linux distribiutions and use 'import cv2' on Python terminal to test if it was already installed.
 
 # Install OpenCV-Python (Windows)
