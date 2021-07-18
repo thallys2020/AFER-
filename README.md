@@ -1,4 +1,4 @@
-# EmotionDetector 
+# AFER
 To build a tool for face and pose recognition
 
 # Install Face_recognition Lib on Windows
